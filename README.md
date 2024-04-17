@@ -2,10 +2,10 @@
 
 
 # Grocery-Tracking Program Documentation
-# CS-210
-# Jess Dowd
-# 04-17-2024
-# Project 3
+# CS-210 Project 3
+## Jess Dowd
+## 04-17-2024
+
 
 
 ## Project Overview
